@@ -10,7 +10,6 @@
 <!--* ![screenshot](PicsArt_01-30-03.22.55.jpg)-->
 
 ---
-<img align="right" alt="GIF" src="https://github.com/deepansharya1111/temp/blob/main/tumblr_mac1m0fkEE1rfjowdo1_640.gif" width="200vw" />
 
 ### My Tech Toolbox 🧰 
 
@@ -21,9 +20,10 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
- 
+<img align="right" alt="GIF" src="https://github.com/deepansharya1111/temp/blob/main/tumblr_mac1m0fkEE1rfjowdo1_640.gif" width="200vw" />
+
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on my [laptop](https://csea-iitb.github.io/IITBreachers-wiki/)?
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to annoy people with number of <!--*  ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=HitCount&color=blue&style=flat-square)-->
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=HitCount&color=blue&style=flat-square)
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I’m looking to collaborate on weird ideas that would be [least helpful](https://github.com/deut-erium/hacking_tools)
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with looking serious in README
 - <img alt="GIF" src="https://github.com/deepansharya1111/temp/blob/main/ezgif.com-gif-maker%20(5).gif" width="22vw" /> Ask me about why having wheels on laptop is a bad idea
