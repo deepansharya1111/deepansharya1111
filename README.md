@@ -5,7 +5,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 <p align="center">
-  <img src="https://github.com/deepansharya1111/deepansharya1111/blob/main/PicsArt_01-30-03.22.55.jpg" alt="Sublime's custom image"/>
+  <img src="https://github.com/deepansharya1111/deepansharya1111/blob/main/PicsArt_01-30-03.22.55.jpg" alt="Banner not loaded: Check your Internet"/>
 </p>
 <!--* ![screenshot](PicsArt_01-30-03.22.55.jpg)-->
 
