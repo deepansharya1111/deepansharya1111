@@ -48,13 +48,15 @@ Here are few things you may be interested to stalk
 </details>
 
 <details>
-<summary> <b><img alt="GIF" src="https://github.com/deepansharya1111/temp/blob/main/star%20rainbow.gif" width="20vw" /> </b> <i>Personal Details</i> </summary>
+<summary> <img alt="GIF" src="https://github.com/deepansharya1111/temp/blob/main/star%20rainbow.gif" width="20vw" /> <b><i>Personal Details</i></b> </summary>
 <ul>
  <li> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">About me. Too Personal!</a>
- <li> Passionate for learning & exploring new Tech but i'm <a href="https://www.youtube.com/watch?v=PfGaX8G0f2E">not perfect</a>.
+ <li> Passionate for learning & exploring new Tech but i'm <a href="https://www.youtube.com/watch?v=PfGaX8G0f2E">not perfect</a> atleast yet.
  <ul>
   <li> PS: That pic is old.
-  <li> Connect on Twitter (:
+  <li> Might be caught listening to <a href="https://www.youtube.com/playlist?list=PLLTRoNZYbheQDGBXr_Ad9puvVT0DpB1w5">this</a> sometimes.
+  <li> I'm learning how to build better community connections
+  <li> Connect to Twitter from below (:
  </ul>
  <li> <a href="mailto:farziemailid6969@gmail.com">Report Here</a> if anything breaks
 </ul>
