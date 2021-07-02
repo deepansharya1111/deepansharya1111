@@ -44,6 +44,7 @@ Here are few things you may be interested to stalk
  <li> Lets compete together on <a href="https://picoctf.org/">picoCTF</a> together: looking for a partner? </li>
  <li> I'm Still a noob for <a href="https://www.hackthebox.eu/">HackTheBox</a> no shame on that </li>
  <li> Invite me to your team if you play <a href="https://capturetheflag.withgoogle.com/"> Google's CTF </a>
+ <li> I am currently a Cloud Facilitator by Google
  <li> I am working to become an official part of Google Developers Groups in upcoming 1-2 months
 </ul>
 </details>
