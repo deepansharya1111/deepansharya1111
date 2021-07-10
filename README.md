@@ -31,7 +31,7 @@
 <!--- Earned Gold badge & 5 star at HackerRank in Python programming.-->
 - <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22vw" /> Subscribe to my [YouTube channel](https://www.youtube.com/deepansharya1111) because i upload new videos every... time i feel like it.
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: you had a good bad time
-
+<!--
 <details>
 <summary> <b>Jokes apart, I love participating in CTF contests</b> <i>(click to expand!)</i> </summary>
 <br>
@@ -45,10 +45,10 @@ Here are few things you may be interested to stalk
  <li> I'm Still a noob for <a href="https://www.hackthebox.eu/">HackTheBox</a> no shame on that </li>
  <li> Invite me to your team if you play <a href="https://capturetheflag.withgoogle.com/"> Google's CTF </a>
  <li> I am currently a Cloud Facilitator by Google
- <li> I am working to become an official part of Google Developers Groups in upcoming few months
+ <li> I am working to become an official part of Google Developers Groups in upcoming 1-2 months
 </ul>
 </details>
-
+-->
 <details>
 <summary> <img alt="GIF" src="https://github.com/deepansharya1111/temp/blob/main/star%20rainbow.gif" width="20vw" /> <b><i>Personal Details</i></b> </summary>
 <ul>
