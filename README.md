@@ -17,7 +17,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
 </p>
-
+<!--
 <img align="right" alt="GIF" src="https://github.com/deepansharya1111/temp/blob/main/tumblr_mac1m0fkEE1rfjowdo1_640.gif" width="200vw" />
 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on my [laptop](https://csea-iitb.github.io/IITBreachers-wiki/)?
@@ -28,7 +28,7 @@
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [recursion](https://github.com/deepansharya1111/)
 
 - My primary coding language: C++
-<!--- Earned Gold badge & 5 star at HackerRank in Python programming.-->
+// Earned Gold badge & 5 star at HackerRank in Python programming.
 - <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22vw" /> Subscribe to my [YouTube channel](https://www.youtube.com/deepansharya1111) because i upload new videos every... time i feel like it.
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: you had a good bad time
 
@@ -63,6 +63,7 @@ Here are few things you may be interested to stalk
  <li> <a href="mailto:farziemailid6969@gmail.com">Report Here</a> if anything breaks
 </ul>
 </details>
+
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
