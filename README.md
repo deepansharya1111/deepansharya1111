@@ -1,28 +1,20 @@
-<h1 align="center">
- <a target="_blank">&nbsp;&nbsp;<img src="https://github.com/JayantGoel001/JayantGoel001/blob/a8303c42048473834c4a215fbabf3df32158c2d8/GIF/Earth.gif" width="24px" style="max-width:100%;"></a>
- 𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
- <a target="_blank"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></a>
- <br>
- I am Deepansh Singh Arya
-</h1>
-
-<p align="left"> 
-  <a href="https://twitter.com/deepansh_arya" target="blank"><img src="https://img.shields.io/twitter/follow/deepansh_arya?logo=twitter&style=for-the-badge" alt="deepansh_arya" /></a> 
-</p>
+<h1 align="center">Hi there👋, I'm <a href="https://deepansharya1111.github.io/"  target="blank">Dee</a>!</h1>
+<h3 align="center">A developer from India.</h3>
+<p align="center">ddc942e48fb2f085c3d1bfae4b487a09</p>
 
 <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/mac.gif" width="200vw" />
 
-
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on **my laptop**
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Visiting%20Coders&color=blue&style=flat-square)
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with **looking serious in README**
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on **my laptop?**
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Profile%20Views&color=blue&style=flat-square)
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with **writing good REVIEWS/ISSUES**
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20vw" /> I’m looking to collaborate on productive ideas like hacking netflix accounts of people watching FRIENDS
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22vw" /> Ask me about **why having wheels on laptop is a bad idea**
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [recursion](https://github.com/deepansharya1111/)
 - <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22vw" /> Subscribe to my [YouTube channel](https://www.youtube.com/deepansharya1111) because i upload new videos every... time i feel like it.
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/coin.gif?raw=1" width="20vw" /> Fun fact: you had a good bad time
 
 <details>
- <summary> <b>Jokes apart, </b> <i>(click to expand!)</i> </summary>
+ <summary> <b>Jokes apart, I love cryptography </b> <i>(click to expand!)</i> </summary>
  <br>
  Here are few things you may be interested to stalk
  
@@ -47,10 +39,11 @@
   <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hackerman.gif" width="200vw" />
   <ul>
    <li> Always ready to work for empowering the student community
-   <li> Part time freelance web developer. 
-   <li> Fiver Link: 🙈(forgot to drop)
+   <li> I'm working on a blog in free time to help script kiddies become advance <br>
+    in Machine Learning, cryptography and pen testing(hacking). <img alt="2" src="https://progress-bar.dev/2/?title=completed&color=babaca">
+   <li> If you are into calisthenics or parkour, I love you :heart: not tailor-made.
   </ul>
-  <li> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Personal Details</a>
+  <li> This is what you came for = <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Personal Details</a>
   <li> <a href="mailto:farziemailid6969@gmail.com">Report Here</a> if anything breaks
  </ul>
 </details>
@@ -60,11 +53,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/deepansharya1111/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://dev.to/deepansharya1111"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
-  <a href="https://people.sap.com/deepansharya1111"><img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a> 
-  <a href="https://www.instagram.com/deepansharya1111"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://people.sap.com/deepansharya1111"><img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
   <a href="https://discord.com/users/deepansharya1111#8006"><img src="https://img.shields.io/badge/Discord-white.svg?&style=for-the-badge&logo=Discord&logocolor=white"></a>
   <a href="mailto:deepansharya1111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/deepansh_arya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/deepansh_arya"><img src="https://img.shields.io/twitter/follow/deepansh_arya?label=Connect%20%40deepansh_arya&logo=twitter&style=for-the-badge&logoColor=white&labelColor=rgb(15,170,255)&color=white" alt="deepansh_arya"></a> 
 </p>
 
 #
@@ -72,12 +64,12 @@
 <details open="">
  <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚂𝚝𝚊𝚝𝚜 : </strong> <i>(click to expand!)</i> 
+  <strong>𝚂𝚝𝚊𝚝𝚜 : </strong> <i>(click to contract!)</i> 
  </summary>
  <br> 
  <table width="100%"> 
   <tr>
-   <td width="50%" rowspan="3"> &nbsp; <p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=oqkfmby92i8hjosir0y5c851t&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=oqkfmby92i8hjosir0y5c851t&cover_image=true&theme=default"/></a></p>
+   <td width="50%" rowspan="3"> &nbsp; <p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=oqkfmby92i8hjosir0y5c851t&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=oqkfmby92i8hjosir0y5c851t&cover_image=true&theme=default" alt="spotify-paused-the-songs-to-show-ads :/"/></a></p>
    <p align="center"><a href="https://open.spotify.com/playlist/0Nn07Pn0gbgitalAmsy5Xw?si=35d33335741c46b0n">
         <img src="https://github.com/deepansharya1111/temp/blob/main/spotify-playlist.svg" width="400vw" height="auto" alt="Playing From">
     </a></p>
@@ -106,4 +98,3 @@
 [linkedin]: https://www.linkedin.com/in/deepansharya1111/
 [Medium]: https://medium.com/@deepansharya1111
 [Discord]: https://discord.com/users/deepansharya1111#8006
-[spotify-paused-the-songs-to-show-damn-ads]: https://spotify-github-profile.vercel.app/api/view?uid=oqkfmby92i8hjosir0y5c851t&cover_image=true&theme=default
