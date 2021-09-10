@@ -5,8 +5,8 @@
 <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/mac.gif" width="200vw" />
 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on **my laptop?**
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Profile%20Views&color=blue&style=flat-square)
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with **writing good REVIEWS/ISSUES**
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square)
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with **making a time machine**
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20vw" /> I’m looking to collaborate on productive ideas like hacking netflix accounts of people watching FRIENDS
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22vw" /> Ask me about **why having wheels on laptop is a bad idea**
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [recursion](https://github.com/deepansharya1111/)
@@ -38,12 +38,12 @@
   <li> Passionate for learning & exploring new Tech
   <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hackerman.gif" width="200vw" />
   <ul>
-   <li> Always ready to work for empowering the student community
+   <li> Always working for empowering the student community
    <li> I'm working on a blog in free time to help script kiddies become advance <br>
     in Machine Learning, cryptography and pen testing(hacking). <img alt="2" src="https://progress-bar.dev/2/?title=completed&color=babaca">
-   <li> If you are into calisthenics or parkour, I love you :heart: not tailor-made.
+   <li> If you are into calisthenics or parkour, I love you :heart: . Not tailor-made love.
   </ul>
-  <li> This is what you came for = <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Personal Details</a>
+  <li> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Private Details</a>
   <li> <a href="mailto:farziemailid6969@gmail.com">Report Here</a> if anything breaks
  </ul>
 </details>
