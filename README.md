@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm <a href="https://deepansharya1111.github.io/"  target="blank">Dee</a>!</h1>
+<h1 align="center">Hi there, I'm <a href="https://deepansharya1111.github.io/"  target="blank">Dee</a>! 👋</h1>
 <h3 align="center">A developer from India.</h3>
 <p align="center">ddc942e48fb2f085c3d1bfae4b487a09</p>
 
@@ -17,9 +17,9 @@
  <summary> <b>Jokes apart, I love cryptography </b> <i>(click to expand!)</i> </summary>
  <br>
  Here are few things you may be interested to stalk
- 
+
  <ul>
-  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/Matrix_Digital_rain_medium.gif" width="200vw" />
+  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/Matrix_Digital_rain_medium.gif?raw=1" width="200vw" />
   <li> My primary coding language: Python, Secondary: C++, Tertiary: Java
   <li> Competitive Programming, CTFs, and Web development is what I do. Sometimes ML on Kaggle.
   <li> If you love cryptography, then try finding me on <a href="https://cryptohack.org/">cryptohack</a> :heart: </li>
@@ -48,7 +48,7 @@
  </ul>
 </details>
 
-<p align="center">Feel free reaching out to me at following platforms:</p>
+<p align="center">Feel free reaching out to me at following platforms</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepansharya1111/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
