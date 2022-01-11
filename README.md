@@ -32,7 +32,7 @@
 </details>
 
 <details>
- <summary> <img alt="GIF" src="https://github.com/deepansharya1111/temp/blob/main/star%20rainbow.gif" width="20vw" /> <b><i>Personal Details</i></b> <i>(click to expand!)</i>
+ <summary> <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/star%20rainbow.gif" width="20vw" /> <b><i>Personal Details</i></b> <i>(click to expand!)</i>
  </summary>
  <ul>
   <li> Passionate for learning & exploring new Tech
@@ -71,7 +71,7 @@
   <tr>
    <td width="50%" rowspan="3"> &nbsp; <p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=oqkfmby92i8hjosir0y5c851t&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=oqkfmby92i8hjosir0y5c851t&cover_image=true&theme=default" alt="spotify-paused-the-songs-to-show-ads :/"/></a></p>
    <p align="center"><a href="https://open.spotify.com/playlist/0BtovSgO0EJlWi6tJpxWcj?si=paZCDXqTTSyMgO6ZtfebCA">
-        <img src="https://github.com/deepansharya1111/temp/blob/main/spotify-playlist.svg" width="400vw" height="auto" alt="Playing From">
+        <img src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/spotify-playlist.svg" width="400vw" height="auto" alt="Playing From">
     </a></p>
    </td>
    <td width="50%"><p align="center"><br /><a href="https://github.com/deepansharya1111"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepansharya1111&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" /></a></p></td>
