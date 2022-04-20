@@ -27,7 +27,7 @@
   <li> Lets compete together on <a href="https://picoctf.org/">picoCTF</a> together: looking for a partner? </li>
   <li> I'm getting a hang of <a href="https://www.hackthebox.eu/">HackTheBox</a> </li>
   <li> Invite me to your team if you play <a href="https://capturetheflag.withgoogle.com/"> Google's CTF </a>
-  <li> Here's one addition to your <a href="https://www.youtube.com/watch?v=RDbvC5I9wtw"/>Coding Music</a> library
+  <li> Take a look at this <a href="https://www.youtube.com/watch?v=RDbvC5I9wtw"/>Music</a> library
  </ul>
 </details>
 
