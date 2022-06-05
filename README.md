@@ -1,18 +1,19 @@
-<!--
+
 <h1 align="center">Hi there👋, I'm <a href="https://deepansharya1111.github.io/"  target="blank">Dee</a>!</h1>
 <h3 align="center">A developer from India.</h3>
 <p align="center">ddc942e48fb2f085c3d1bfae4b487a09</p>
 
-<img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/mac.gif" width="200vw" />
+<img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/mac.gif" width="27%" height="45%" style="margin:0 50px;"> 
 
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on **my laptop?**
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square)
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with **making a time machine**
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20vw" /> I’m looking to collaborate on weird ideas that would be least helpful but fun
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22vw" /> Ask me about **why having wheels on laptop is a bad idea**
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [recursion](https://github.com/deepansharya1111/)
-- <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22vw" /> Subscribe to my [YouTube channel](https://www.youtube.com/deepansharya1111) because i upload new videos every... time i feel like it.
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/coin.gif?raw=1" width="20vw" /> Fun fact: you had a good bad time
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=1" width="2%" height="2%">  I’m currently working on **my laptop?**
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="2%" height="2%"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square)
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="2%" height="2%"> I’m looking for help with **making a time machine**
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="2%" height="2%"> I’m looking to collaborate on weird ideas that would be least helpful but fun
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="2%" height="2%"> Ask me about **why having wheels on laptop is a bad idea**
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="2%" height="2%"> Pronouns: [recursion](https://github.com/deepansharya1111/)
+- <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="2%" height="2%"> Subscribe to my [YouTube channel](https://www.youtube.com/deepansharya1111) because i upload new videos every... time i feel like it.
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/coin.gif?raw=1" width="2%" height="2%"> Fun fact: you had a good bad time
+- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Private Details</a>
 
 <details>
  <summary> <b>Jokes apart, I love cryptography </b> <i>(click to expand!)</i> </summary>
@@ -20,7 +21,7 @@
  Here are few things you may be interested to stalk
  
  <ul>
-  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/Matrix_Digital_rain_medium.gif" width="200vw" />
+  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/Matrix_Digital_rain_medium.gif"  width="27%" height="45%" style="margin:0 50px;">
   <li> My primary coding language: Python, Secondary: C++, Tertiary: Java
   <li> Competitive Programming, CTFs, and Web development is what I do. Sometimes ML on Kaggle.
   <li> If you love cryptography, then try finding me on <a href="https://cryptohack.org/">cryptohack</a> :heart: </li>
@@ -33,19 +34,20 @@
 </details>
 
 <details>
- <summary> <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/star%20rainbow.gif" width="20vw" /> <b><i>Personal Details</i></b> <i>(click to expand!)</i>
+ <summary> <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/star%20rainbow.gif" width="1.7%" height="1.7%"> <b><i>Personal Details</i></b> <i>(click to expand!)</i>
  </summary>
  <ul>
   <li> Passionate for learning & exploring new Tech
-  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hackerman.gif" width="200vw" />
+  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hackerman.gif"  width="25%" height="45%" style="margin:0 50px;">
   <ul>
    <li> Always working for empowering the student community
-   <li> I'm working on a blog in free time to help script kiddies become advance <br>
-    in Machine Learning, cryptography and pen testing(hacking). <img alt="2" src="https://progress-bar.dev/2/?title=completed&color=babaca">
+   <li> Checkout this <a href="https://deepansharya1111.github.io/blog/2021/07/04/welcome.html">Blog</a>
+    <!--I'm working on a blog in free time to help script kiddies become advance <br>
+    in Machine Learning, cryptography and pen testing(hacking). <img alt="2" src="https://progress-bar.dev/2/?title=completed&color=babaca"> -->
    <li> If you are into calisthenics or parkour, I love you :heart: . Not tailor-made love.
   </ul>
-  <li> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Private Details</a>
-  <li> <a href="mailto:farziemailid6969@gmail.com">Report Here</a> if anything breaks
+  <li> Don't <a href="mailto:farziemailid6969@gmail.com">Report Here</a> if anything breaks
+  <li> Report <a href="mailto:deepansharya1111@gmail.com">Here</a> instead
  </ul>
 </details>
 
@@ -59,7 +61,7 @@
   <a href="mailto:deepansharya1111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com/deepansh_arya"><img src="https://img.shields.io/twitter/follow/deepansh_arya?label=Connect%20%40deepansh_arya&logo=twitter&style=for-the-badge&logoColor=white&labelColor=rgb(15,170,255)&color=white" alt="deepansh_arya"></a> 
 </p>
--->
+
 #
 
 <details open="">
