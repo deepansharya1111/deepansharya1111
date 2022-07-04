@@ -8,9 +8,8 @@
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=1" width="2%" height="2%">  I’m currently working on **my Macbook** 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="2%" height="2%"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square)
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="2%" height="2%"> I’m looking for help with **making a time machine**. 
-  - Jokes apart, I'm looking for work related to Flutter Development :blue_heart:
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="2%" height="2%"> I’m looking to collaborate on weird ideas that would be least helpful but fun. 
-  - Ok seriously, I want to make awesome flutter apps! :rocket:
+  - JK, I'm looking for work related to cross-platform Flutter app Development :blue_heart:
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="2%" height="2%"> I’m looking to collaborate on weird ideas that would be fun to make awesome flutter apps! :rocket:
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="2%" height="2%"> Ask me about **why having wheels on laptop is a bad idea**
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="2%" height="2%"> Pronouns: [recursion](https://github.com/deepansharya1111/)
 - <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="2%" height="2%"> Subscribe to my [YouTube channel](https://www.youtube.com/deepansharya1111) because i upload new videos every... time i feel like it.
