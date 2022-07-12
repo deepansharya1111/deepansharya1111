@@ -7,9 +7,9 @@
 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=1" width="20vw">  I’m currently working on **my Macbook** 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20vw"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square)
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20vw"> I’m looking for help with **making a time machine** 🔁. 
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20vw"> I’m looking for help with **making a time machine**
   - JK, I'm looking for work related to cross-platform Flutter app Development :blue_heart:
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22vw"> I’m looking to collaborate on weird ideas that would be fun to make awesome flutter apps! :rocket:
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22vw"> I’m looking to collaborate on weird ideas that would be fun for making awesome flutter apps! :rocket:
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20vw"> Ask me about **why having wheels on laptop is a bad idea** 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20vw"> Pronouns: [recursion](https://github.com/deepansharya1111/)
 - <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22vw"> Subscribe to my [YouTube channel](https://www.youtube.com/deepansharya1111) because i upload new videos every... time i feel like it.
@@ -55,10 +55,18 @@
     <!--I'm working on a blog in free time to help script kiddies become advance <br>
     in Machine Learning, cryptography and pen testing(hacking). <img alt="2" src="https://progress-bar.dev/2/?title=completed&color=babaca"> -->
    <li> If you are into calisthenics or parkour, I love you :heart: . Not tailor-made love. 
+   <li> I adore 8-bit retro animations, Teach me if you know how to create them?
   </ul>
   <li> Don't <a href="mailto:farziemailid6969@gmail.com">Report Here</a> if anything breaks 
   <li> Report <a href="mailto:deepansharya1111@gmail.com">Here</a> instead
-  
+  <br>
+  <br>
+  <br>
+  <p align="center">
+ <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/michaeljackson.gif?raw=1" width="60vw">
+ <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/moonwalk.gif?raw=1" width="250vw">
+ <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/michaeljackson.gif?raw=1" width="60vw">
+</p>
  </ul> 
 </details>
 
@@ -103,13 +111,6 @@
 <br>
 
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=deepansharya1111&theme=react-dark&hide_border=true&area=true) -->
-
-<p align="center">
- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/michaeljackson.gif?raw=1" width="60vw">
- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/moonwalk.gif?raw=1" width="250vw">
- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/michaeljackson.gif?raw=1" width="60vw">
-</p>
-
 
 ![](https://hit.yhype.me/github/profile?user_id=30445158)
 
