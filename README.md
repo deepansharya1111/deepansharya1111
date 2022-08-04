@@ -1,14 +1,15 @@
 
-<h1 align="center">Hi there👋, I'm <a href="https://deepansharya1111.github.io/"  target="blank">Dee</a>!</h1>
+<!-- <h1 align="center">Hi there👋, I'm <a href="https://deepansharya1111.github.io/"  target="blank">Dee</a>!</h1> -->
+ <h1 align="center">Hi there👋, I'm Deepansh
 <h3 align="center">A Flutter developer from India.</h3>
 <!-- <p align="center">ddc942e48fb2f085c3d1bfae4b487a09</p> -->
 
 <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/mac.gif" width="200"> 
 
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=true" width="20">  I’m currently working on **my Macbook** 
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=true" width="20">  I’m currently working on **my Macbook** ?
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square)
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20"> I’m looking for help with **making a time machine**
-  - JK, I'm looking for work related to cross-platform Flutter app Development :blue_heart:
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20"> I’m looking for help with **making a time machine** 😯
+  - Okay, actually I'm looking for work related to Flutter app Development :blue_heart:
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22"> I’m looking to collaborate on weird ideas that would be fun for making awesome flutter apps! :rocket:
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20"> Ask me about **why having wheels on laptop is a bad idea** 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20"> Pronouns: [recursion](https://github.com/deepansharya1111/)
@@ -23,7 +24,7 @@
  
  <ul>
   <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/Matrix_Digital_rain_medium.gif" width="200">
-  <li> Starting mid July 2022, I will write articles about Flutter on Medium accompanied with demonstrations through videos.
+<!--  <li> Starting mid July 2022, I will write articles about Flutter on Medium accompanied with demonstrations through videos. -->
   <li> Languages I work on: 
   <ul> 
    <li> Dart for Flutter, 
