@@ -3,17 +3,17 @@
 <h3 align="center">A Flutter developer from India.</h3>
 <!-- <p align="center">ddc942e48fb2f085c3d1bfae4b487a09</p> -->
 
-<img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/mac.gif" width="200vw"> 
+<img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/mac.gif" width="200"> 
 
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=1" width="20vw">  I’m currently working on **my Macbook** 
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20vw"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square)
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20vw"> I’m looking for help with **making a time machine**
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=true" width="20">  I’m currently working on **my Macbook** 
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square)
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20"> I’m looking for help with **making a time machine**
   - JK, I'm looking for work related to cross-platform Flutter app Development :blue_heart:
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22vw"> I’m looking to collaborate on weird ideas that would be fun for making awesome flutter apps! :rocket:
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20vw"> Ask me about **why having wheels on laptop is a bad idea** 
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20vw"> Pronouns: [recursion](https://github.com/deepansharya1111/)
-- <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22vw"> Subscribe to my [YouTube channel](https://www.youtube.com/deepansharya1111) because i upload new videos every... time i feel like it.
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/coin.gif?raw=1" width="20vw"> Fun fact: you had a good bad time <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20vw">
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22"> I’m looking to collaborate on weird ideas that would be fun for making awesome flutter apps! :rocket:
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20"> Ask me about **why having wheels on laptop is a bad idea** 
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20"> Pronouns: [recursion](https://github.com/deepansharya1111/)
+- <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22"> Subscribe to my [YouTube channel](https://www.youtube.com/deepansharya1111) because i upload new videos every... time i feel like it.
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/coin.gif?raw=1" width="20"> Fun fact: you had a good bad time <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20">
 - <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Private Details</a>
 
 <details>
@@ -22,7 +22,7 @@
  <!-- Here are few things you may be interested to stalk -->
  
  <ul>
-  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/Matrix_Digital_rain_medium.gif" width="200vw">
+  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/Matrix_Digital_rain_medium.gif" width="200">
   <li> Starting mid July 2022, I will write articles about Flutter on Medium accompanied with demonstrations through videos.
   <li> Languages I work on: 
   <ul> 
@@ -44,11 +44,11 @@
 </details>
 
 <details>
- <summary> <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/star%20rainbow.gif" width="20vw"> <b><i>Personal Details</i></b> <i>(click to expand!)</i>
+ <summary> <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/star%20rainbow.gif" width="20"> <b><i>Personal Details</i></b> <i>(click to expand!)</i>
  </summary>
  <ul>
   <li> Passionate for learning & exploring Flutter.
-  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hackerman.gif" width="200vw">
+  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hackerman.gif" width="200">
   <ul>
    <li> Aim is to help the student community.
    <li> Checkout this <a href="https://deepansharya1111.github.io/blog/2021/07/04/welcome.html">Blog</a> I wrote on my cryptography + CTF learnings. 
@@ -63,9 +63,9 @@
   <br>
   <br>
   <p align="center">
- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/michaeljackson.gif?raw=1" width="60vw">
- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/moonwalk.gif?raw=1" width="250vw">
- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/michaeljackson.gif?raw=1" width="60vw">
+ <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/michaeljackson.gif?raw=1" width="60">
+ <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/moonwalk.gif?raw=1" width="250">
+ <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/michaeljackson.gif?raw=1" width="60">
 </p>
  </ul> 
 </details>
