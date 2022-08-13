@@ -9,7 +9,7 @@
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=true" width="20">  I’m currently working on **my Macbook** ?
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square)
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20"> I’m looking for help with **making a time machine** 😯
-  - Okay, actually I'm looking for work related to Flutter app Development :blue_heart:
+  - (and work related to Flutter app Development :blue_heart:)
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22"> I’m looking to collaborate on weird ideas that would be fun for making awesome flutter apps! :rocket:
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20"> Ask me about **why having wheels on laptop is a bad idea** 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20"> Pronouns: [recursion](https://github.com/deepansharya1111/)
@@ -59,7 +59,7 @@
    <li> I adore 8-bit retro animations, Teach me if you know how to create them?
   </ul>
   <li> Don't <a href="mailto:farziemailid6969@gmail.com">Report Here</a> if anything breaks 
-  <li> Report <a href="mailto:deepansharya1111@gmail.com">Here</a> instead
+  <li> Report <a href="mailto:deepansharya1111@gmail.com?subject=From your Github Profile">Here</a> instead
   <br>
   <br>
   <br>
@@ -80,7 +80,8 @@
   <a href="https://people.sap.com/deepansharya1111"><img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
   -->
   <a href="https://discord.com/users/deepansharya1111#8006"><img src="https://img.shields.io/badge/Discord-white.svg?&style=for-the-badge&logo=Discord&logocolor=white"></a>
-  <a href="mailto:deepansharya1111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:deepansharya1111@gmail.com?subject=From your Github Profile"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/919253058880?text=Hey, I came from your Github Profile. I have to say it's very cool!"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://twitter.com/deepansh_arya"><img src="https://img.shields.io/twitter/follow/deepansh_arya?label=Connect%20%40deepansh_arya&logo=twitter&style=for-the-badge&logoColor=white&labelColor=rgb(15,170,255)&color=white" alt="deepansh_arya"></a> 
 </p>
 
