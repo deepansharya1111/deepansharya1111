@@ -1,29 +1,32 @@
 
-<!-- <h1 align="center">Hi there👋, I'm <a href="https://deepansharya1111.github.io/"  target="blank">Dee</a>!</h1> -->
- <h1 align="center">Hi there👋, I'm Deepansh
+<!-- <h1 align="center">Hi there 👋, I'm <a href="https://deepansharya1111.github.io/"  target="blank">Dee</a>!</h1> -->
+ <h1 align="center">Hi there 👋, I'm <a href="https://deepansh.app">Deepansh</a>
 <h3 align="center">A developer from India.</h3>
 <!-- <p align="center">ddc942e48fb2f085c3d1bfae4b487a09</p> -->
 
 <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/mac.gif" width="200"> 
 
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=true" width="20">  I’m currently working on **my Macbook** ? <!-- - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square) -->
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20"> I’m looking for help with **making a time machine** 😯 <!--  - (and work related to Flutter app Development :blue_heart:) -->
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22"> I’m looking to collaborate on weird ideas that would be fun for making awesome apps! :rocket:
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20"> Ask me about **why having wheels on laptop is a bad idea** 
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=true" width="20">  I’m currently working on **becoming a badass DevOps
+Engineer**. <!-- - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square) -->
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20"> I’m looking for help with **understanding why recruitment
+process is so slow in this fast world** 😯 <!--  - (and work related to Flutter app Development :blue_heart:) -->
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22"> I’m looking to collaborate on **DevOps and Cloud based projects**! :rocket:
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20"> Ask me about **why I have 200 Chrome tabs opened** 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20"> Pronouns: [recursion](https://github.com/deepansharya1111/)
-- <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22"> Subscribe to my [YouTube channel](https://www.youtube.com/deepansharya1111) because i upload new videos every... time i feel like it.
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/coin.gif?raw=1" width="20"> Fun fact: you had a good bad time <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20">
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20"> Subscribe to my [YouTube channel @deesec](https://www.youtube.com/@deesec) where I upload frequently, on stuff I'm working on.
+- <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22"> Or subscribe to my other [YouTube channel](https://www.youtube.com/@deepansharya1111) where I upload every... time I feel like sharing some life learnings.
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/coin.gif?raw=1" width="20"> Fun fact: you'll have a fun time looking at this profile
 - <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Private Details</a>
 
-<details>
- <summary> <b>Jokes apart, I love Flutter :blue_heart: </b> <i>(click to expand!)</i> </summary>
- <br>
- <!-- Here are few things you may be interested to stalk -->
- 
- <ul>
-  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/Matrix_Digital_rain_medium.gif" width="200">
-<!--  <li> Starting mid July 2022, I will write articles about Flutter on Medium accompanied with demonstrations through videos. -->
-  <li> Languages I work on: 
+<!-- COMMENTS START
+<!--<details> 
+<!-- <summary> <b>Jokes apart, I love Flutter :blue_heart: </b> <i>(click to expand!)</i> </summary>
+<!-- <br>
+<!--                <!-- Here are a few things you may be interested in stalking -->
+<!-- <ul>
+<!--  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/Matrix_Digital_rain_medium.gif" width="200">
+<!--                <!--  <li> Starting mid-July 2022, I will write articles about Flutter on Medium accompanied with demonstrations through videos. -->
+<!--  <li> Languages I work on: 
   <ul> 
    <li> Dart for Flutter, 
    <li> C++ for competitive programming, 
@@ -32,28 +35,28 @@
   <li> Flutter app development and Competitive Programming is what I do.
   <li> Fun fact: I'm into UI/UX, Singing, video editing, calisthenics, and drawing/sketching as my hobbies :)
   <li> If you love cryptography, then try finding me on <a href="https://cryptohack.org/">cryptohack</a> :heart: </li>
-  <!--
-  <li> I have been learning recently on <a href="https://tryhackme.com">TryHackMe</a> and its fun! </li>
-  <li> Lets compete together on <a href="https://picoctf.org/">picoCTF</a> together: looking for a partner? </li>
-  <li> I'm getting a hang of <a href="https://www.hackthebox.eu/">HackTheBox</a> </li>
-  <li> Invite me to your team if you play <a href="https://capturetheflag.withgoogle.com/"> Google's CTF </a>
-   -->
-  <li> Take a look at this <a href="https://www.youtube.com/watch?v=RDbvC5I9wtw"/>Music</a> playlist
- </ul>
-</details>
-
-<details>
- <summary> <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/star%20rainbow.gif" width="20"> <b><i>Personal Details</i></b> <i>(click to expand!)</i>
- </summary>
- <ul>
-  <li> Passionate for learning & exploring Flutter.
-  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hackerman.gif" width="200">
-  <ul>
-   <li> Aim is to help the student community.
-   <li> Checkout this <a href="https://deepansharya1111.github.io/blog/2021/07/04/welcome.html">Blog</a> I wrote on my cryptography + CTF learnings. 
-    <!--I'm working on a blog in free time to help script kiddies become advance <br>
-    in Machine Learning, cryptography and pen testing(hacking). <img alt="2" src="https://progress-bar.dev/2/?title=completed&color=babaca"> -->
-   <li> If you are into calisthenics or parkour, I love you :heart: . Not tailor-made love. 
+                <!--
+                <li> I have been learning recently on <a href="https://tryhackme.com">TryHackMe</a> and its fun! </li>
+                <li> Lets compete together on <a href="https://picoctf.org/">picoCTF</a> together: looking for a partner? </li>
+                <li> I'm getting a hang of <a href="https://www.hackthebox.eu/">HackTheBox</a> </li>
+                <li> Invite me to your team if you play <a href="https://capturetheflag.withgoogle.com/"> Google's CTF </a>
+                 -->
+<!--  <li> Take a look at this <a href="https://www.youtube.com/watch?v=RDbvC5I9wtw"/>Music</a> playlist
+<!-- </ul>
+<!--</details>
+<!--
+<!--<details>
+<!-- <summary> <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/star%20rainbow.gif" width="20"> <b><i>Personal Details</i></b> <i>(click to expand!)</i>
+<!-- </summary>
+<!-- <ul>
+<!--  <li> Passionate for learning & exploring Flutter.
+<!--  <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hackerman.gif" width="200">
+<!--  <ul>
+<!--   <li> Aim is to help the student community.
+<!--   <li> Checkout this <a href="https://deepansharya1111.github.io/blog/2021/07/04/welcome.html">Blog</a> I wrote on my cryptography + CTF learnings. 
+<!--               <!--I'm working on a blog in free time to help script kiddies become advance <br>
+<!--               in Machine Learning, cryptography and pen testing(hacking). <img alt="2" src="https://progress-bar.dev/2/?title=completed&color=babaca"> -->
+<!--   <li> If you are into calisthenics or parkour, I love you :heart: . Not tailor-made love. 
    <li> I adore 8-bit retro animations, Teach me if you know how to create them?
   </ul>
   <li> Don't <a href="mailto:farziemailid6969@gmail.com">Report Here</a> if anything breaks 
@@ -69,7 +72,10 @@
  </ul> 
 </details>
 
-<p align="center">Feel free for reaching out to me via the following platforms:</p>
+COMMENTS END
+-->
+
+<p align="center">Feel free to reach out to me via the following platforms:</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepansharya1111/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
