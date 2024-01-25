@@ -11,7 +11,7 @@ Engineer**. <!-- - <img alt="GIF" src="https://github.com/deepansharya1111/deepa
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20"> I’m looking for help with **understanding why recruitment
 process is so slow in this fast world** 😯 <!--  - (and work related to Flutter app Development :blue_heart:) -->
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22"> I’m looking to collaborate on **DevOps and Cloud based projects**! :rocket:
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20"> Ask me about **why I have 200 Chrome tabs opened** 
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20"> Ask me about **why I have 200 Chrome tabs opened and yet how are they so organized** 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20"> Pronouns: [recursion](https://github.com/deepansharya1111/)
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20"> Subscribe to my [YouTube channel @deesec](https://www.youtube.com/@deesec) where I upload frequently, on stuff I'm working on.
 - <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22"> Or subscribe to my other [YouTube channel](https://www.youtube.com/@deepansharya1111) where I upload every... time I feel like sharing some life learnings.
