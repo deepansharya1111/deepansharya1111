@@ -101,7 +101,7 @@ COMMENTS END
  <table width="100%"> 
   <tr>
    <td width="50%" rowspan="3"> &nbsp; <p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=oqkfmby92i8hjosir0y5c851t&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=oqkfmby92i8hjosir0y5c851t&cover_image=true&theme=default" alt="spotify-paused-the-songs-to-show-ads :/"/></a></p>
-   <p align="center"><a href="https://open.spotify.com/playlist/0BtovSgO0EJlWi6tJpxWcj?si=paZCDXqTTSyMgO6ZtfebCA">
+   <p align="center"><a href="https://open.spotify.com/user/oqkfmby92i8hjosir0y5c851t?si=n-3kpAk2Tn6EUUFXYbZmuA">
         <img src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/spotify-playlist.svg" width="400vw" height="auto" alt="Playing From">
     </a></p>
    </td>
