@@ -90,7 +90,8 @@ COMMENTS END
   <a href="https://twitter.com/deepansh_arya"><img src="https://img.shields.io/twitter/follow/deepansh_arya?label=Connect%20%40deepansh_arya&logo=twitter&style=for-the-badge&logoColor=white&labelColor=rgb(15,170,255)&color=white" alt="deepansh_arya"></a> 
 </p>
 
-#
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <details open="">
  <summary>
