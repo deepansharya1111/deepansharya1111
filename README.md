@@ -86,7 +86,6 @@ COMMENTS END
   -->
   <a href="https://discord.com/users/deepansharya1111#8006"><img src="https://img.shields.io/badge/Discord-white.svg?&style=for-the-badge&logo=Discord&logocolor=white"></a>
   <a href="mailto:deepansharya1111@gmail.com?subject=From your Github Profile"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/919253058880?text=Hey, I came from your Github Profile. I have to say it's very cool!"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://twitter.com/deepansh_arya"><img src="https://img.shields.io/twitter/follow/deepansh_arya?label=Connect%20%40deepansh_arya&logo=twitter&style=for-the-badge&logoColor=white&labelColor=rgb(15,170,255)&color=white" alt="deepansh_arya"></a> 
 </p>
 
