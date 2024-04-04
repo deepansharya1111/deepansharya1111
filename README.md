@@ -14,8 +14,11 @@ process is so slow in this fast world** 😯 <!--  - (and work related to Flutte
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22"> I’m looking to collaborate on **DevOps and Cloud based projects**! :rocket:
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20"> Ask me about **why I have 200 Chrome tabs opened and yet how are they so organized** 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20"> Pronouns: [recursion](https://github.com/deepansharya1111/) <img alt="GIF" src="https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/RollyCat-icon.gif?raw=1" width="20">
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20"> Subscribe to my [YouTube channel](https://www.youtube.com/@deepansharya1111) where I upload every... time I feel like sharing some life learnings. 
+<!-- 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20"> Subscribe to my [YouTube channel @deesec](https://www.youtube.com/@deesec) where I upload frequently, on stuff I'm working on. 
-- <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22"> Or subscribe to my other [YouTube channel](https://www.youtube.com/@deepansharya1111) where I upload every... time I feel like sharing some life learnings.
+- <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22"> Or subscribe to my other [YouTube channel](https://www.youtube.com/@deepansharya1111) where I upload every... time I feel like sharing some life learnings. 
+-->
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/coin.gif?raw=1" width="20"> Fun fact: you'll have a fun time looking at this profile
 - <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Private Details</a>
 
