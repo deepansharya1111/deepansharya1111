@@ -6,20 +6,20 @@
 
 <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/mac.gif" width="200"> 
 
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=true" width="20">  I’m currently working on **becoming a badass DevOps
-Engineer** <img alt="GIF" src="https://github.com/deepansharya1111/temp/blob/6fa60d8b2d55205adbfe00fc65883f1f104df6f4/Respple.gif?raw=true" width="12"> 
-<!-- - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square) -->
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=true" width="20">  I’m currently working on **developing new GenAl use cases on Dialogflow in GCP** <img alt="GIF" src="https://github.com/deepansharya1111/temp/blob/6fa60d8b2d55205adbfe00fc65883f1f104df6f4/Respple.gif?raw=true" width="12"> 
+<!-- - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square) 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20"> I’m looking for help with **understanding why recruitment
-process is so slow in this fast world** 😯 <!--  - (and work related to Flutter app Development :blue_heart:) -->
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22"> I’m looking to collaborate on **DevOps and Cloud based projects**! :rocket:
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20"> Ask me about **why I have 200 Chrome tabs opened and yet how are they so organized** 
+process is so slow in this fast world** 😯  - (and work related to Flutter app Development :blue_heart:) -->
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/headbang.gif?raw=1" width="22"> I’m looking to collaborate on **Technical discussions around Cloud, DevOps!**! :rocket:
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/gandalf_parrot.gif?raw=1" width="20"> Ask me about **how I keep my browser worksapce so organised** 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20"> Pronouns: [recursion](https://github.com/deepansharya1111/) <img alt="GIF" src="https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/RollyCat-icon.gif?raw=1" width="20">
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20"> Subscribe to my [YouTube channel](https://www.youtube.com/@deepansharya1111) where I upload every... time I feel like sharing some life learnings. 
-<!-- 
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20"> Subscribe to my [YouTube channel @deesec](https://www.youtube.com/@deesec) where I upload frequently, on stuff I'm working on. 
+<!-- - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20"> Subscribe to my [YouTube channel](https://www.youtube.com/@deepansharya1111) where I upload every... time I feel like sharing some life learnings. 
+ -->
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20"> Subscribe to my [YouTube channel](https://www.youtube.com/@deesec) where I sometimes upload cloud/devops/flutter learnings (apart from my frequent talks at tech events).
+<!--
 - <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22"> Or subscribe to my other [YouTube channel](https://www.youtube.com/@deepansharya1111) where I upload every... time I feel like sharing some life learnings. 
 -->
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/coin.gif?raw=1" width="20"> Fun fact: you'll have a fun time looking at this profile
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/coin.gif?raw=1" width="20"> Fun fact: there are a few easter eggs on my website, like [this](https://deepansh.app/nsfw/). Try finding more :) I love CTFs.
 - <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Private Details</a>
 
 <!-- COMMENTS START
