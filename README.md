@@ -1,12 +1,12 @@
 
 <!-- <h1 align="center">Hi there 👋, I'm <a href="https://deepansharya1111.github.io/"  target="blank">Dee</a>!</h1> -->
  <h1 align="center">Hi there 👋, I'm <a href="https://deepansh.app">Deepansh</a>
-<h3 align="center">A developer from India.</h3>
+<h3 align="center">A Cloud Engineer & developer from India.</h3>
 <!-- <p align="center">ddc942e48fb2f085c3d1bfae4b487a09</p> -->
 
 <img align="right" alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/mac.gif" width="200"> 
 
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=true" width="20">  I’m currently working on **developing new GenAl use cases on Dialogflow in GCP** <img alt="GIF" src="https://github.com/deepansharya1111/temp/blob/6fa60d8b2d55205adbfe00fc65883f1f104df6f4/Respple.gif?raw=true" width="12"> 
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/wave.gif?raw=true" width="20">  I’m currently working on **developing new GenAl use cases with GCP** <img alt="GIF" src="https://github.com/deepansharya1111/temp/blob/6fa60d8b2d55205adbfe00fc65883f1f104df6f4/Respple.gif?raw=true" width="12"> 
 <!-- - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/ezgif.com-gif-maker%20(5).gif" width="20"> I’m currently learning how to annoy people with number of ![](https://komarev.com/ghpvc/?username=deepansharya1111&label=Hits&color=blue&style=flat-square) 
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/hmm.gif?raw=1" width="20"> I’m looking for help with **understanding why recruitment
 process is so slow in this fast world** 😯  - (and work related to Flutter app Development :blue_heart:) -->
