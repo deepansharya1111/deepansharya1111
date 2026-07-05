@@ -15,9 +15,9 @@ process is so slow in this fast world** 😯  - (and work related to Flutter app
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/powerup.gif?raw=1" width="20"> Pronouns: [recursion](https://github.com/deepansharya1111/) <img alt="GIF" src="https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/RepoImages/RollyCat-icon.gif?raw=1" width="20">
 <!-- - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20"> Subscribe to my [YouTube channel](https://www.youtube.com/@deepansharya1111) where I upload every... time I feel like sharing some life learnings. 
  -->
-- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20"> Subscribe to my [YouTube channel](https://www.youtube.com/@deesec) where I sometimes upload cloud/devops/flutter learnings (apart from my frequent talks at tech events).
+- <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/metal2.gif?raw=1" width="20"> Subscribe to my [YouTube channel](https://www.youtube.com/@deesec) where I upload stuff every... time I feel like it.
 <!--
-- <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22"> Or subscribe to my other [YouTube channel](https://www.youtube.com/@deepansharya1111) where I upload every... time I feel like sharing some life learnings. 
+- <img alt="GIF" src="https://media.giphy.com/media/gjNpNqwG5H8oRYfZFe/giphy.gif" width="22"> Or subscribe to my other [YouTube channel](https://www.youtube.com/@deepansharya1111) where I upload random happenings or learnings once-twice a year. 
 -->
 - <img alt="GIF" src="https://github.com/deepansharya1111/deepansharya1111/blob/main/assets/coin.gif?raw=1" width="20"> Fun fact: there are a few easter eggs on my website, like [this](https://deepansh.app/nsfw/). Try finding more :) I love CTFs.
 - <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Private Details</a>
